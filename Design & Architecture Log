@@ -16,6 +16,25 @@ Agenda:
 
 Notes:
 
+Discussed connection button on 1st page of UI. 
+
+clarification on how mission json file is loaded?
+
+Discussed UI moving to 3 seperate dynamic views. Connect, upload flight plan, main page "camera,stats, etc"
+
+Lock down phone simulator version -
+
+stats - altitude, lat long , battery, orientation. 
+
+Todo - Susan finish wiring diagram 
+
+     - Murat start UI code implementation
+     
+     - Ryan 
+     
+     - Drew 
+     
+All - review req doc's 
 
 
 ***************************** END ******************************
