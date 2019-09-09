@@ -13,6 +13,7 @@ Agenda:
 
 45 min: Individualy discuss progress and barriers from Req Document 
 15 min: Next steps
+** Most time was spent on UI and page layout.. Req document still needs review upon completion
 
 Notes:
 
@@ -26,15 +27,17 @@ Lock down phone simulator version -
 
 stats - altitude, lat long , battery, orientation. 
 
-Todo - Susan finish wiring diagram 
+Todo - Susan: Finish wiring diagram 
 
-     - Murat start UI code implementation
+     - Murat: Start UI code implementation
      
-     - Ryan 
+     - Ryan: Get DJI SDK working on android studio with sample program from DJI website 
      
-     - Drew 
+     - Drew: Finish section 2 Req document
      
-All - review req doc's 
+All - review req doc's on Tuesday D/A 09/10/2019
+
+Bring HDMI cable to connect to huddle room big screen.
 
 
 ***************************** END ******************************
