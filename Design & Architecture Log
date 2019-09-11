@@ -51,7 +51,10 @@ Agenda:
 
 Notes:
 
-n
+Make local copies of any online documentation because one-drive is not reliable.
+We need to move to dropbox.
+
+
 
 Todo:
 
@@ -61,7 +64,7 @@ Ryan - Submit to client/Debra req doc draft and UI wire diagrams, start architec
 
 Drew - look at code to connect android app to drone.
 
-Susan - git tutorials 
+Susan - git tutorials, connection drone to app
 
 Murat - start dummy program implementing views, create buttons, dummy handlers.
 
